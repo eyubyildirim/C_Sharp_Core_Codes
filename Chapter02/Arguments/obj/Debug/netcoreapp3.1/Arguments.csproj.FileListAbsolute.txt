@@ -1,0 +1,13 @@
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.exe
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.deps.json
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.runtimeconfig.json
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.runtimeconfig.dev.json
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.dll
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.pdb
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.csprojAssemblyReference.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.AssemblyInfoInputs.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.AssemblyInfo.cs
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.csproj.CoreCompileInputs.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.dll
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.pdb
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.genruntimeconfig.cache

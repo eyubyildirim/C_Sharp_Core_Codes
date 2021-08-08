@@ -1,0 +1,13 @@
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.csprojAssemblyReference.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\vator\Documents\c_sharp_and_net_core\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.genruntimeconfig.cache
