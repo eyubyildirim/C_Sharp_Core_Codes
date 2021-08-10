@@ -1,0 +1,13 @@
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.exe
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.deps.json
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.runtimeconfig.json
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.runtimeconfig.dev.json
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.dll
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.pdb
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.csprojAssemblyReference.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.AssemblyInfoInputs.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.AssemblyInfo.cs
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.dll
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.pdb
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.genruntimeconfig.cache

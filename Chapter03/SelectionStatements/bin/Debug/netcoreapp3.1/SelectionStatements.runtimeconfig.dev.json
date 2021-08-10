@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vator\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vator\\.nuget\\packages"
+    ]
+  }
+}
