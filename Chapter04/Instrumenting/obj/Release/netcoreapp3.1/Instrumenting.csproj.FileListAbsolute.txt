@@ -1,0 +1,13 @@
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Instrumenting\bin\Release\netcoreapp3.1\Instrumenting.exe
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Instrumenting\bin\Release\netcoreapp3.1\Instrumenting.deps.json
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Instrumenting\bin\Release\netcoreapp3.1\Instrumenting.runtimeconfig.json
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Instrumenting\bin\Release\netcoreapp3.1\Instrumenting.runtimeconfig.dev.json
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Instrumenting\bin\Release\netcoreapp3.1\Instrumenting.dll
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Instrumenting\bin\Release\netcoreapp3.1\Instrumenting.pdb
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Instrumenting\obj\Release\netcoreapp3.1\Instrumenting.csprojAssemblyReference.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Instrumenting\obj\Release\netcoreapp3.1\Instrumenting.AssemblyInfoInputs.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Instrumenting\obj\Release\netcoreapp3.1\Instrumenting.AssemblyInfo.cs
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Instrumenting\obj\Release\netcoreapp3.1\Instrumenting.csproj.CoreCompileInputs.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Instrumenting\obj\Release\netcoreapp3.1\Instrumenting.dll
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Instrumenting\obj\Release\netcoreapp3.1\Instrumenting.pdb
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Instrumenting\obj\Release\netcoreapp3.1\Instrumenting.genruntimeconfig.cache

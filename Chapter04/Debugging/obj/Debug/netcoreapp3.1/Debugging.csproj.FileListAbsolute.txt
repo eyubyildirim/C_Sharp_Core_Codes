@@ -1,0 +1,13 @@
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.exe
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.deps.json
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.runtimeconfig.json
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.runtimeconfig.dev.json
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.dll
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.pdb
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.csprojAssemblyReference.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.AssemblyInfoInputs.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.AssemblyInfo.cs
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.dll
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.pdb
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.genruntimeconfig.cache
