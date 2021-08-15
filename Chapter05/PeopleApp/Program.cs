@@ -74,6 +74,10 @@ namespace PeopleApp
                 format: "{0} has earned {1:C} interest.",
                 arg0: gerrierAccount.AccountName,
                 arg1: gerrierAccount.Balance * BankAccount.InterestRate);
+            
+            WriteLine($"{bob.Name} is a {Person.Species}");
+            
+            WriteLine($"{bob.Name} was born on {bob.HomePlanet}");
         }
     }
 }

@@ -8,13 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ba04335-3eeb-496d-bb26-00990824dce8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PacktLibrary/BankAccount.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PacktLibrary/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PacktLibrary/Person.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PeopleApp.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PeopleApp.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/PacktLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/PacktLibrary.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/PacktLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/PacktLibrary.pdb" afterDir="false" />
@@ -92,7 +90,7 @@
       <updated>1629027691335</updated>
       <workItem from="1629027703004" duration="374000" />
       <workItem from="1629028101127" duration="2773000" />
-      <workItem from="1629059929594" duration="947000" />
+      <workItem from="1629059929594" duration="1251000" />
     </task>
     <servers />
   </component>
