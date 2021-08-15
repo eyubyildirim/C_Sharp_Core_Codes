@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vator\\Documents\\c_sharp_and_net_core\\Chapter02\\Exercise02\\Exercise02.csproj",
+      "projectUniqueName": "C:\\Users\\vator\\Documents\\c_sharp_and_net_core\\Code\\Chapter02\\Exercise02\\Exercise02.csproj",
       "projectName": "Exercise02",
-      "projectPath": "C:\\Users\\vator\\Documents\\c_sharp_and_net_core\\Chapter02\\Exercise02\\Exercise02.csproj",
+      "projectPath": "C:\\Users\\vator\\Documents\\c_sharp_and_net_core\\Code\\Chapter02\\Exercise02\\Exercise02.csproj",
       "packagesPath": "C:\\Users\\vator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vator\\Documents\\c_sharp_and_net_core\\Chapter02\\Exercise02\\obj\\",
+      "outputPath": "C:\\Users\\vator\\Documents\\c_sharp_and_net_core\\Code\\Chapter02\\Exercise02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vator\\AppData\\Roaming\\NuGet\\NuGet.Config"

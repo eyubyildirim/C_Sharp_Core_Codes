@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3vo8zCM41/ch2EXAMuisYlB3m6Uz7/Zw6qmUoVAL2wy3TGdqOh0+MTVtfroBIYGUEQlQBOou40Pg2OK1JUA17w==",
+  "dgSpecHash": "DTtHki9V5BnuG+4/0re/+eQULez2nqK8VlUbzcx2c1XY6++xD2QAzQh0R+aWELtx2TdwnjWPQOYuTRF6KWB0gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vator\\Documents\\c_sharp_and_net_core\\Chapter02\\Exercise02\\Exercise02.csproj",
+  "projectFilePath": "C:\\Users\\vator\\Documents\\c_sharp_and_net_core\\Code\\Chapter02\\Exercise02\\Exercise02.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

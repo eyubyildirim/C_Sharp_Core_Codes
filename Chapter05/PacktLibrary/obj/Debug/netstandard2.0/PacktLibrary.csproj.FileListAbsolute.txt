@@ -1,0 +1,9 @@
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.deps.json
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.dll
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.pdb
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csprojAssemblyReference.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfo.cs
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
+C:\Users\vator\Documents\c_sharp_and_net_core\Code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb
