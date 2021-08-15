@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8sJJiBLLFLJ7q2UeDqXMQuTanBVjN7xLTEdFOVoblF3V7bZzZNjvKutS14u9OXYb8LOSvKz4r0/Zjzhkbwlfxg==",
+  "dgSpecHash": "wrnyK/kkhlWoBv7TjGb+p3/59wySmLD+d4JY56Am5v0ueDq7KKasENST3JDCadS+tMzenN8JaRo+MSc+NXDwMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vator\\Documents\\c_sharp_and_net_core\\Code\\Chapter05\\PeopleApp\\PeopleApp.csproj",
+  "projectFilePath": "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter05\\PeopleApp\\PeopleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

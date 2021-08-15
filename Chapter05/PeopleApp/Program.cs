@@ -40,6 +40,16 @@ namespace PeopleApp
                 WondersOfTheAncientWorld.MausoleumAtHalicarnassus;
             
             WriteLine($"{bob.Name}'s bucket list is {bob.BucketList}");
+            
+            bob.Children.Add(new Person(){Name = "Alfred"});
+            bob.Children.Add(new Person(){Name = "Zoe"});
+            
+            WriteLine($"{bob.Name} has {bob.Children.Count} children: ");
+
+            foreach (var child in bob.Children)
+            {
+                WriteLine($"    {child.Name}");
+            }
         }
     }
 }
