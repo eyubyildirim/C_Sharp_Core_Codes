@@ -38,18 +38,42 @@ namespace PeopleApp
             bob.BucketList =
                 WondersOfTheAncientWorld.HangingGardensOfBabylon |
                 WondersOfTheAncientWorld.MausoleumAtHalicarnassus;
-            
+
             WriteLine($"{bob.Name}'s bucket list is {bob.BucketList}");
-            
-            bob.Children.Add(new Person(){Name = "Alfred"});
-            bob.Children.Add(new Person(){Name = "Zoe"});
-            
+
+            bob.Children.Add(new Person() {Name = "Alfred"});
+            bob.Children.Add(new Person() {Name = "Zoe"});
+
             WriteLine($"{bob.Name} has {bob.Children.Count} children: ");
 
             foreach (var child in bob.Children)
             {
                 WriteLine($"    {child.Name}");
             }
+
+            BankAccount.InterestRate = 0.012M;
+
+            var jonesAccount = new BankAccount
+            {
+                AccountName = "Mrs. Jones",
+                Balance = 2400
+            };
+
+            WriteLine(
+                format: "{0} has earned {1:C} interest.",
+                arg0: jonesAccount.AccountName,
+                arg1: jonesAccount.Balance * BankAccount.InterestRate);
+
+            var gerrierAccount = new BankAccount()
+            {
+                AccountName = "Ms. Gerrier",
+                Balance = 98
+            };
+            
+            WriteLine(
+                format: "{0} has earned {1:C} interest.",
+                arg0: gerrierAccount.AccountName,
+                arg1: gerrierAccount.Balance * BankAccount.InterestRate);
         }
     }
 }
