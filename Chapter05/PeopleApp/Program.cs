@@ -100,6 +100,9 @@ namespace PeopleApp
 
             (string, int) fruit = bob.GetFruit();
             WriteLine($"{fruit.Item1}, {fruit.Item2} there are.");
+
+            var fruitNamed = bob.GetNamedFruit();
+            WriteLine($"There are {fruitNamed.Number} {fruitNamed.Name}");
         }
     }
 }

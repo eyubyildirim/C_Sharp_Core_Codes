@@ -42,5 +42,10 @@ namespace Packt.Shared
         {
             return ("Apples", 5);
         }
+
+        public (string Name, int Number) GetNamedFruit()
+        {
+            return (Name: "Apples", Number: 5);
+        }
     }
 }
