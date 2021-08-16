@@ -97,6 +97,9 @@ namespace PeopleApp
             
             bob.WriteToConsole();
             WriteLine(bob.GetOrigin());
+
+            (string, int) fruit = bob.GetFruit();
+            WriteLine($"{fruit.Item1}, {fruit.Item2} there are.");
         }
     }
 }
