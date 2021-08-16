@@ -112,6 +112,9 @@ namespace PeopleApp
 
             (string fruitName, int fruitNumber) = bob.GetFruit();
             WriteLine($"Deconstructed: {fruitName}, {fruitNumber}");
+            
+            WriteLine(bob.SayHello());
+            WriteLine(bob.SayHelloTo("Emily"));
         }
     }
 }
