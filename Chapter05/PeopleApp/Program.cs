@@ -95,6 +95,8 @@ namespace PeopleApp
                 arg1: gunny.HomePlanet,
                 arg2: gunny.Instantiated);
             
+            bob.WriteToConsole();
+            WriteLine(bob.GetOrigin());
         }
     }
 }
