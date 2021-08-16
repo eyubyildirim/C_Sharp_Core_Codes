@@ -114,7 +114,7 @@ namespace PeopleApp
             WriteLine($"Deconstructed: {fruitName}, {fruitNumber}");
             
             WriteLine(bob.SayHello());
-            WriteLine(bob.SayHelloTo("Emily"));
+            WriteLine(bob.SayHello("Emily"));
         }
     }
 }
