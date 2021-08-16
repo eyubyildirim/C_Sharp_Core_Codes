@@ -13,8 +13,15 @@
       <change beforePath="$PROJECT_DIR$/../PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PeopleApp.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PeopleApp.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/PacktLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/PacktLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/PacktLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/PacktLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/PeopleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/PeopleApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/PeopleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/PeopleApp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/PeopleApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/PeopleApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/PeopleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/PeopleApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/PeopleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/PeopleApp.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +30,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -84,7 +99,7 @@
       <updated>1629027691335</updated>
       <workItem from="1629027703004" duration="374000" />
       <workItem from="1629028101127" duration="2773000" />
-      <workItem from="1629059929594" duration="3641000" />
+      <workItem from="1629059929594" duration="4059000" />
     </task>
     <servers />
   </component>
