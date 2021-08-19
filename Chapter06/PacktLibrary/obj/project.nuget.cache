@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4lWdihHpQHN2zpbWdtYPrLlhvUEm/VE1TQYaKepIfCB9f2fA2qfjBZeIEDhyTf0iIbrsSu9c1P9K6TC6hUpAMg==",
+  "dgSpecHash": "k1VgGSuqWkXFH3eVVVHaezexbdUXeeC3T6KFOBwUqA/OfmgrYV0jg93sjp5Kn5nHnjfeLm/uEu1a6R9Ind//Bg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vator\\Documents\\c_sharp_and_net_core\\Code\\Chapter06\\PacktLibrary\\PacktLibrary.csproj",
+  "projectFilePath": "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter06\\PacktLibrary\\PacktLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\vator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

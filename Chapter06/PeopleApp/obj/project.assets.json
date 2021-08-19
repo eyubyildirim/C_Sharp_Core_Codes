@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vator\\Documents\\c_sharp_and_net_core\\Code\\Chapter06\\PeopleApp\\PeopleApp.csproj",
+      "projectUniqueName": "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter06\\PeopleApp\\PeopleApp.csproj",
       "projectName": "PeopleApp",
-      "projectPath": "C:\\Users\\vator\\Documents\\c_sharp_and_net_core\\Code\\Chapter06\\PeopleApp\\PeopleApp.csproj",
+      "projectPath": "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter06\\PeopleApp\\PeopleApp.csproj",
       "packagesPath": "C:\\Users\\vator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vator\\Documents\\c_sharp_and_net_core\\Code\\Chapter06\\PeopleApp\\obj\\",
+      "outputPath": "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter06\\PeopleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vator\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,8 +50,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\vator\\Documents\\c_sharp_and_net_core\\Code\\Chapter06\\PacktLibrary\\PacktLibrary.csproj": {
-              "projectPath": "C:\\Users\\vator\\Documents\\c_sharp_and_net_core\\Code\\Chapter06\\PacktLibrary\\PacktLibrary.csproj"
+            "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter06\\PacktLibrary\\PacktLibrary.csproj": {
+              "projectPath": "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter06\\PacktLibrary\\PacktLibrary.csproj"
             }
           }
         }
@@ -79,7 +79,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
       }
     }
   }
