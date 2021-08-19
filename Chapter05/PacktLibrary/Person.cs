@@ -69,6 +69,17 @@ namespace Packt.Shared
                 arg1: number,
                 arg2: active);
         }
+
+        public void PassingParameters(int x, ref int y, out int z)
+        {
+            // out parameters can't have a default
+            // thus they should be initialized inside the method
+            z = 99;
+
+            x++;
+            y++;
+            z++;
+        }
         //
         // public string SayHelloTo(string name)
         // {
