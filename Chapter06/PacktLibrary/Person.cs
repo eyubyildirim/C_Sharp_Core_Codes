@@ -10,7 +10,9 @@ namespace Packt.Shared
         public string Name;
         public DateTime DateOfBirth;
         public List<Person> Children = new List<Person>();
-        
+        public int AngerLevel;
+        public event EventHandler Shout;
+
         // methods
         public void WriteToConsole()
         {
@@ -23,7 +25,7 @@ namespace Packt.Shared
             {
                 Name = $"Baby of {p1.Name} and {p2.Name}"
             };
-            
+
             p1.Children.Add(baby);
             p2.Children.Add(baby);
 
@@ -54,6 +56,13 @@ namespace Packt.Shared
                 if (localNumber < 1) return 1;
                 return localNumber * localFactorial(localNumber - 1);
             }
+        }
+
+        public void Poke()
+        {
+            AngerLevel++;
+            if (AngerLevel < 3) return;
+            Shout?.Invoke(this, EventArgs.Empty);
         }
     }
 }
