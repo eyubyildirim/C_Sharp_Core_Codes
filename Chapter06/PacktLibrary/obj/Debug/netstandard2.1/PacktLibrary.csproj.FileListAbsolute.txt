@@ -1,0 +1,9 @@
+C:\Users\vator\RiderProjects\C_Sharp_Core_Codes\Chapter06\PacktLibrary\bin\Debug\netstandard2.1\PacktLibrary.deps.json
+C:\Users\vator\RiderProjects\C_Sharp_Core_Codes\Chapter06\PacktLibrary\bin\Debug\netstandard2.1\PacktLibrary.dll
+C:\Users\vator\RiderProjects\C_Sharp_Core_Codes\Chapter06\PacktLibrary\bin\Debug\netstandard2.1\PacktLibrary.pdb
+C:\Users\vator\RiderProjects\C_Sharp_Core_Codes\Chapter06\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.csprojAssemblyReference.cache
+C:\Users\vator\RiderProjects\C_Sharp_Core_Codes\Chapter06\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\vator\RiderProjects\C_Sharp_Core_Codes\Chapter06\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.AssemblyInfo.cs
+C:\Users\vator\RiderProjects\C_Sharp_Core_Codes\Chapter06\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vator\RiderProjects\C_Sharp_Core_Codes\Chapter06\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.dll
+C:\Users\vator\RiderProjects\C_Sharp_Core_Codes\Chapter06\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.pdb

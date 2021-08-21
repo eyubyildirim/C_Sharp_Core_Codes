@@ -33,12 +33,40 @@ namespace PeopleApp
             harry.Poke();
             harry.Poke();
             harry.Poke();
+
+            Person[] people =
+            {
+                new Person() {Name = "Simon"},
+                new Person() {Name = "Jenny"},
+                new Person() {Name = "Adam"},
+                new Person() {Name = "Richard"}
+            };
+            
+            WriteLine("Initial list of people:");
+            foreach (var person in people)
+            {
+                WriteLine($"{person.Name}");
+            }
+            
+            WriteLine("Use Person's IComparable implementation to sort:");
+            Array.Sort(people);
+            foreach (var person in people)
+            {
+                WriteLine($"{person.Name}");
+            }
+            
+            WriteLine("User PersonComparer's IComparer implementation to sort:");
+            Array.Sort(people, new PersonComparer());
+            foreach (var person in people)
+            {
+                WriteLine($"{person.Name}");
+            }
         }
 
         private static void Harry_Shout(object sender, EventArgs e)
         {
             var p = (Person) sender;
-            WriteLine($"{p.Name} is this angry: {p.AngerLevel}");
+            if (p != null) WriteLine($"{p.Name} is this angry: {p.AngerLevel}");
         }
     }
 }

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Packt.Shared
 {
-    public class Person
+    public class Person : IComparable<Person>
     {
         // fields
         public string Name;
@@ -61,8 +61,15 @@ namespace Packt.Shared
         public void Poke()
         {
             AngerLevel++;
-            if (AngerLevel < 3) return;
-            Shout?.Invoke(this, EventArgs.Empty);
+            if (AngerLevel >= 3)
+            {
+                Shout?.Invoke(this, EventArgs.Empty);
+            }
+        }
+
+        public int CompareTo(Person other)
+        {
+            return Name.CompareTo(other.Name);
         }
     }
 }
