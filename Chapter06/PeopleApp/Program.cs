@@ -104,11 +104,11 @@ namespace PeopleApp
 
             Employee aliceInEmployee = new Employee()
             {
-                Name = "Alice", 
+                Name = "Alice",
                 EmployeeCode = "AA123"
             };
             Person aliceInPerson = aliceInEmployee;
-            
+
             aliceInEmployee.WriteToConsole();
             aliceInPerson.WriteToConsole();
             WriteLine(aliceInEmployee.ToString());
@@ -117,18 +117,44 @@ namespace PeopleApp
             if (aliceInPerson is Employee)
             {
                 WriteLine($"{nameof(aliceInPerson)} IS an Employee");
-                
+
                 Employee explicitAlice = (Employee) aliceInPerson;
             }
-            
+
             Employee aliceAsEmployee = aliceInPerson as Employee;
 
             if (aliceAsEmployee != null)
             {
                 WriteLine($"{nameof(aliceInPerson)} AS an Employee");
             }
+
+            try
+            {
+                john.TimeTravel(new DateTime(1999, 12, 31));
+                john.TimeTravel(new DateTime(1950, 12, 25));
+            }
+            catch (PersonException e)
+            {
+                WriteLine(e.Message);
+            }
+
+            string email1 = "pamela@test.com";
+            string email2 = "ian&test.com";
+
+            WriteLine("{0} is a valid e-mail address: {1}",
+                arg0: email1,
+                arg1: StringExtensions.IsValidEmail(email1));
+            WriteLine("{0} is a valid e-mail address: {1}",
+                arg0: email2,
+                arg1: StringExtensions.IsValidEmail(email2));
             
-            
+            WriteLine("{0} is a valid e-mail address: {1}",
+                arg0: email1,
+                arg1: email1.IsValidEmail());
+            WriteLine("{0} is a valid e-mail address: {1}",
+                arg0: email2,
+                arg1: email2.IsValidEmail());
+
         }
 
         private static void Harry_Shout(object sender, EventArgs e)

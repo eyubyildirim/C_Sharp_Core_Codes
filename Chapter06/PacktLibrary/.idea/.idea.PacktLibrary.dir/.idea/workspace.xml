@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2415950-e1a7-4d45-be06-0aed6294028f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Employee.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonException.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringExtensions.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PacktLibrary.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PacktLibrary.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Person.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netstandard2.1/PacktLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/PacktLibrary.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netstandard2.1/PacktLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/PacktLibrary.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PeopleApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/Program.cs" afterDir="false" />
@@ -78,6 +80,7 @@
       <workItem from="1629573190839" duration="285000" />
       <workItem from="1633024239076" duration="519000" />
       <workItem from="1633024850207" duration="3210000" />
+      <workItem from="1633030418797" duration="1034000" />
     </task>
     <servers />
   </component>
