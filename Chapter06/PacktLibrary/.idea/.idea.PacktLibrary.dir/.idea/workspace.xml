@@ -5,20 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2415950-e1a7-4d45-be06-0aed6294028f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DvdPlayer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IPlayable.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonComparer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GenericThing.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Squarer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thing.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PeopleApp/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PacktLibrary.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PacktLibrary.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PacktLibrary.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/PacktLibrary.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Person.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netstandard2.0/PacktLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.0/PacktLibrary.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netstandard2.0/PacktLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.0/PacktLibrary.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netstandard2.0/PacktLibrary.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.0/PacktLibrary.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netstandard2.0/PacktLibrary.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.0/PacktLibrary.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netstandard2.0/PacktLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.0/PacktLibrary.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netstandard2.0/PacktLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.0/PacktLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netstandard2.1/PacktLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/PacktLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netstandard2.1/PacktLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/PacktLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/PacktLibrary.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/PacktLibrary.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/PacktLibrary.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/PacktLibrary.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/obj/PacktLibrary.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
@@ -27,14 +27,20 @@
       <change beforePath="$PROJECT_DIR$/../PeopleApp/bin/Debug/netcoreapp3.1/PacktLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/bin/Debug/netcoreapp3.1/PacktLibrary.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PeopleApp/bin/Debug/netcoreapp3.1/PacktLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/bin/Debug/netcoreapp3.1/PacktLibrary.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PeopleApp/bin/Debug/netcoreapp3.1/PeopleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/bin/Debug/netcoreapp3.1/PeopleApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PeopleApp/bin/Debug/netcoreapp3.1/PeopleApp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/bin/Debug/netcoreapp3.1/PeopleApp.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PeopleApp/bin/Debug/netcoreapp3.1/PeopleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/bin/Debug/netcoreapp3.1/PeopleApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PeopleApp/obj/PeopleApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/obj/PeopleApp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PeopleApp/obj/PeopleApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/obj/PeopleApp.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PeopleApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PeopleApp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PeopleApp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PeopleApp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../PeopleApp/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,21 +59,21 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6dadd22e019742ce80aaefef99855be0142288/ae/a6fd7a88/EventHandler.cs" root0="SKIP_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Person.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1wxTQnj9YImNSTF3NqDKbuUTxhS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -91,6 +97,8 @@
       <workItem from="1629399241490" duration="442000" />
       <workItem from="1629400251451" duration="6640000" />
       <workItem from="1629573190839" duration="285000" />
+      <workItem from="1633024239076" duration="519000" />
+      <workItem from="1633024850207" duration="846000" />
     </task>
     <servers />
   </component>
@@ -113,6 +121,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter06\\PeopleApp\\PeopleApp.csproj": {}
+    "C:\\Users\\vator\\OneDrive\\Documents\\Rider Projects\\C_Sharp_Core_Codes\\Chapter06\\PeopleApp\\PeopleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter06\\PacktLibrary\\PacktLibrary.csproj": {
+    "C:\\Users\\vator\\OneDrive\\Documents\\Rider Projects\\C_Sharp_Core_Codes\\Chapter06\\PacktLibrary\\PacktLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter06\\PacktLibrary\\PacktLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\vator\\OneDrive\\Documents\\Rider Projects\\C_Sharp_Core_Codes\\Chapter06\\PacktLibrary\\PacktLibrary.csproj",
         "projectName": "PacktLibrary",
-        "projectPath": "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter06\\PacktLibrary\\PacktLibrary.csproj",
+        "projectPath": "C:\\Users\\vator\\OneDrive\\Documents\\Rider Projects\\C_Sharp_Core_Codes\\Chapter06\\PacktLibrary\\PacktLibrary.csproj",
         "packagesPath": "C:\\Users\\vator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter06\\PacktLibrary\\obj\\",
+        "outputPath": "C:\\Users\\vator\\OneDrive\\Documents\\Rider Projects\\C_Sharp_Core_Codes\\Chapter06\\PacktLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vator\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,18 +50,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter06\\PeopleApp\\PeopleApp.csproj": {
+    "C:\\Users\\vator\\OneDrive\\Documents\\Rider Projects\\C_Sharp_Core_Codes\\Chapter06\\PeopleApp\\PeopleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter06\\PeopleApp\\PeopleApp.csproj",
+        "projectUniqueName": "C:\\Users\\vator\\OneDrive\\Documents\\Rider Projects\\C_Sharp_Core_Codes\\Chapter06\\PeopleApp\\PeopleApp.csproj",
         "projectName": "PeopleApp",
-        "projectPath": "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter06\\PeopleApp\\PeopleApp.csproj",
+        "projectPath": "C:\\Users\\vator\\OneDrive\\Documents\\Rider Projects\\C_Sharp_Core_Codes\\Chapter06\\PeopleApp\\PeopleApp.csproj",
         "packagesPath": "C:\\Users\\vator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter06\\PeopleApp\\obj\\",
+        "outputPath": "C:\\Users\\vator\\OneDrive\\Documents\\Rider Projects\\C_Sharp_Core_Codes\\Chapter06\\PeopleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vator\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -75,8 +75,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter06\\PacktLibrary\\PacktLibrary.csproj": {
-                "projectPath": "C:\\Users\\vator\\RiderProjects\\C_Sharp_Core_Codes\\Chapter06\\PacktLibrary\\PacktLibrary.csproj"
+              "C:\\Users\\vator\\OneDrive\\Documents\\Rider Projects\\C_Sharp_Core_Codes\\Chapter06\\PacktLibrary\\PacktLibrary.csproj": {
+                "projectPath": "C:\\Users\\vator\\OneDrive\\Documents\\Rider Projects\\C_Sharp_Core_Codes\\Chapter06\\PacktLibrary\\PacktLibrary.csproj"
               }
             }
           }
@@ -104,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
         }
       }
     }
