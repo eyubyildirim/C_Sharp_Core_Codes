@@ -113,6 +113,22 @@ namespace PeopleApp
             aliceInPerson.WriteToConsole();
             WriteLine(aliceInEmployee.ToString());
             WriteLine(aliceInPerson.ToString());
+
+            if (aliceInPerson is Employee)
+            {
+                WriteLine($"{nameof(aliceInPerson)} IS an Employee");
+                
+                Employee explicitAlice = (Employee) aliceInPerson;
+            }
+            
+            Employee aliceAsEmployee = aliceInPerson as Employee;
+
+            if (aliceAsEmployee != null)
+            {
+                WriteLine($"{nameof(aliceInPerson)} AS an Employee");
+            }
+            
+            
         }
 
         private static void Harry_Shout(object sender, EventArgs e)
