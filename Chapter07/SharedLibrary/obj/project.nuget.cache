@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zLpbVMaAg2fvgjMRsxfvzOS546VDlTDlaSCVtyvcHLbUrV2RLAx6sWxNHNP0SXL8MnyUfjDqhH4by5RSn8VaTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vator\\OneDrive\\Documents\\Rider Projects\\C_Sharp_Core_Codes\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
